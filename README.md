@@ -1,2 +1,0 @@
-# courses
-django project
